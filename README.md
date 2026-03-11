@@ -77,7 +77,7 @@ public class LucasFilipe extends FullstackEngineer {
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
-| 🐾 **PetSched SaaS** | Veterinary scheduling, records & CRM | Next.js · PostgreSQL · Prisma · Docker | No link Yet) |
+| 🐾 **PetSched SaaS** | Veterinary scheduling, records & CRM | Next.js · PostgreSQL · Prisma · Docker | No Link Yet |
 | 🏭 **Fábrica de Galpões** | B2B industrial lead generation platform | React · Node.js · PostgreSQL | [fabricadegalpoes.com.br](https://fabricadegalpoes.com.br) |
 | 🌲 **Forest Hotel** | Immersive dark-mode luxury hotel UI | React · CSS · Figma | [forest.lucasfsl.com.br](http://forest.lucasfsl.com.br) |
 | 🚲 **Bikecraft** | E-commerce UX case study | React · Tailwind · Figma | [bikecraft.lucasfsl.com.br](https://bikecraft.lucasfsl.com.br) |
