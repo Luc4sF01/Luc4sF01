@@ -1,8 +1,8 @@
 # Lucas Filipe
 
-Fullstack Developer based in Brazil. I build complete web systems — REST APIs, databases, cloud infrastructure, and modern interfaces — from requirements to production deployment.
+Fullstack Developer based in Brazil. I build complete web systems , REST APIs, databases, cloud infrastructure, and modern interfaces, from requirements to production deployment.
 
-Currently studying **Information Systems at PUC Minas** (5th semester) and looking for a **Junior Developer or Internship** role.
+Currently studying **Information Systems at PUC Minas** (5th semester).
 
 ---
 
