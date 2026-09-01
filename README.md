@@ -2,7 +2,7 @@
 
 Fullstack Developer based in Brazil. I build complete web systems , REST APIs, databases, cloud infrastructure, and modern interfaces, from requirements to production deployment.
 
-Currently studying **Information Systems at PUC Minas** (5th semester).
+Currently studying **Information Systems at PUC Minas** (6th semester).
 
 ---
 
